@@ -1,0 +1,8 @@
+# Foundry
+lib/
+out/
+cache/
+
+# OS / Env
+.DS_Store
+.env
